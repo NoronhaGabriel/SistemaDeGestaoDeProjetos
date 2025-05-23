@@ -47,6 +47,7 @@ SQLite3 (ou outro banco relacional)
 SQL padrão
 
 🚀 Como Executar o Projeto
+
 Clone o repositório: git clone https://github.com/NoronhaGabriel/SistemaDeGestaoDeProjetos.git
 cd SistemaDeGestaoDeProjetos
 
