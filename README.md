@@ -46,17 +46,7 @@ Streamlit
 SQLite3 (ou outro banco relacional)
 SQL padrão
 
-🚀 Como Executar o Projeto
 
-Clone o repositório: git clone https://github.com/NoronhaGabriel/SistemaDeGestaoDeProjetos.git
-cd SistemaDeGestaoDeProjetos
-
-Instale as dependências:
-pip install -r requirements.txt
-Execute a aplicação:
-
-streamlit run app.py
-Certifique-se de que o arquivo do banco de dados (.db) está no mesmo diretório ou devidamente referenciado no código.
 
 🧪 Scripts SQL
 Inclui scripts para:
