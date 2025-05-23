@@ -54,9 +54,6 @@ Instale as dependências:
 pip install -r requirements.txt
 Execute a aplicação:
 
-bash
-Copiar
-Editar
 streamlit run app.py
 Certifique-se de que o arquivo do banco de dados (.db) está no mesmo diretório ou devidamente referenciado no código.
 
