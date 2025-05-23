@@ -1,7 +1,7 @@
-🛠️ Sistema de Gestão de Projetos - Equipe de Desenvolvimento de Software
+## 🛠️ Sistema de Gestão de Projetos - Equipe de Desenvolvimento de Software
 Este projeto é uma aplicação web simples desenvolvida com Streamlit para gerenciar projetos, membros da equipe e tarefas em um time de desenvolvimento de software. O sistema permite o controle de alocação de membros, visualização de tarefas, e acompanhamento de status, datas de início e término.
 
-📋 Funcionalidades
+## 📋 Funcionalidades
 Cadastro de projetos
 
 Cadastro de membros da equipe
@@ -14,7 +14,7 @@ Registro de datas de início e término
 
 Acompanhamento do status das tarefas
 
-🧱 Estrutura do Banco de Dados
+## 🧱 Estrutura do Banco de Dados
 O banco de dados é composto por três tabelas principais com os seguintes relacionamentos:
 
 🔹 projeto
@@ -40,7 +40,7 @@ data_inicio	DATE	Data de início da tarefa
 data_fim	DATE	Data de término da tarefa
 status	TEXT	Status atual (Pendente, Em andamento, Concluída)
 
-💻 Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 Python 3.x
 Streamlit
 SQLite3 (ou outro banco relacional)
@@ -48,7 +48,7 @@ SQL padrão
 
 
 
-🧪 Scripts SQL
+## 🧪 Scripts SQL
 Inclui scripts para:
 
 Criação das tabelas (create_tables.sql)
@@ -57,5 +57,5 @@ Consultas básicas (queries.sql)
 
 
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 Gabriel Noronha - @NoronhaGabiel
